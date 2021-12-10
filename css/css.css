@@ -359,3 +359,8 @@ h {
     transform: rotate();
   }
 }
+
+/*友联透明遮挡*/
+.flink-list > a .info {
+background-color: rgb(255 255 255 / 0%);
+}
